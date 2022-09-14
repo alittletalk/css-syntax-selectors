@@ -1,24 +1,23 @@
-body {
-  color: brown;
+body{
+  color:brown;
+}
+h1{
+  color:red;
+}
+.quote{
+  color:gray;
+}
+.quote.narrator{
+  color:black;
+  font-size:32px;
 }
 
-h1 {
-  color: red;
+.celebration{
+  color:yellow;
+  font-size: 50px;
+  background-color: bisque;
 }
 
-.quote {
-  color: gray;
-}
-
-.quote.narrator {
-  color: black;
-}
-
-#intro p {
-  color: green;
-}
-
-.super-important-omg {
-  font-size: 20px;
-  background-color: yellow;
+#intro p{
+  color:green;
 }
